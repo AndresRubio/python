@@ -2,8 +2,6 @@
 
 Welcome to my test.
 
-Although it can be weird this test is not going to be made in Java and I am going to take advantage to play with python and a different solution. The final result has not been very brillant because it is incomplete, it does not check groups and the code is not very beauty and not vere tested also, but the value of this test is to show how a different solution can be achieved through evolutionary computation.
-
 It is well known how airlines tries to save time in the boarding process, and it is also well known different algorithms to solve it. One of this solutions comes from Genetic Algorithms (GA) that tries to solve in an heuristic manner.
 
 When you develop a GA you have to take into account the following:
