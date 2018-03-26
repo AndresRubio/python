@@ -1,6 +1,6 @@
-# python
+# GA in Python 
 
-Welcome to my test.
+Welcome to my boarding problem test.
 
 It is well known how airlines tries to save time in the boarding process, and it is also well known different algorithms to solve it. One of this solutions comes from Genetic Algorithms (GA) that tries to solve in an heuristic manner.
 
